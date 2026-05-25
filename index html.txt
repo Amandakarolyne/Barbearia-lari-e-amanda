@@ -1,0 +1,15 @@
+<h1> Hello world! </h1>
+<h2> Hello world! </h2>
+<h3> Hello world! </h3>
+<h4> Hello world! </h4>
+<h5> Hello world! </h5>
+<h6> Hello world! </h6>
+
+<p> Nossos nomes são <b> Larissa e Amanda</b>
+    <BR>somos <i> estudantes </i> da turma 2DSC. </p></BR>
+
+   <i><b>Salão Futurista Tecnológico 🤖</b></i>
+<br><i>Você já imaginou como será cuidar da beleza no futuro? No nosso Salão Futurista Tecnológico, isso já é realidade!</i></br>
+<i>Neste salão inovador, a tecnologia é a principal aliada da beleza.As cadeiras são totalmente automatizadas, ajustando-se sozinhas para o máximo conforto dos clientes. Os espelhos são digitais e mostram simulações de penteados antes mesmo de serem feitos. Além disso, robôs e assistentes tecnológicos ajudam nos atendimentos, tornando tudo mais rápido, moderno e preciso.</i>
+<br><i>O ambiente é cheio de luzes LED, com cores metálicas e um design avançado que faz você se sentir dentro de um verdadeiro laboratório de beleza do futuro. Aqui, estilo e tecnologia se encontram para criar uma experiência única e inesquecível. </i>
+<i><br><b> ✨ Venha conhecer o salão onde o futuro já começou! ✨ </b></i>
